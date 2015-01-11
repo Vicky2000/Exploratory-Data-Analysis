@@ -1,7 +1,6 @@
-# Exploratory-Data-Analysis
 Introduction
 
-This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the “Individual household electric power consumption Data Set” which I have made available on the course web site:
+This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the "Individual household electric power consumption Data Set" which I have made available on the course web site:
 
 Dataset: Electric power consumption [20Mb]
 
@@ -52,16 +51,16 @@ The four plots that you will need to construct are shown below.
 
 Plot 1
 
-ExDataCP1Plot1.png
+plot of chunk unnamed-chunk-2
 
 Plot 2
 
-ExDataCP1Plot2.png
+plot of chunk unnamed-chunk-3
 
 Plot 3
 
-ExDataCP1Plot3.png
+plot of chunk unnamed-chunk-4
 
 Plot 4
 
-ExDataCP1Plot4.png
+plot of chunk unnamed-chunk-5
